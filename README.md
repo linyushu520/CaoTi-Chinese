@@ -1,2 +1,2 @@
-# CaoTi-Chinese
-Creating Resource的草体中文拓展包，适用于Minecraft Bedrork Edtion
+# Creating Resource 扩展包
+Creating Resource的扩展包，适用于Minecraft Bedrork Edtion
